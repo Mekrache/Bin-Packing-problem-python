@@ -7,3 +7,5 @@ The bin packing problem (BPP) can be informally defined in a very simple way. We
 <p aligh="center">
   <img src="imgg.png" height="440">
 </p>
+
+## Exact algorithm
