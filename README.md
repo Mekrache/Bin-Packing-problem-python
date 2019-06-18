@@ -5,5 +5,5 @@ The bin packing problem (BPP) can be informally defined in a very simple way. We
 
 ## Formal statement
 <p aligh="center">
-  <img src="imgg.png">
+  <img src="imgg.png" witdh="500">
 </p>
